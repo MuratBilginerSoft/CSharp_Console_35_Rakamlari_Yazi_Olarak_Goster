@@ -1,0 +1,4 @@
+C:\Users\murat\Desktop\ \Yeni klasör\Rakamlari Yazi Olarak Göster\Rakamlari Yazi Olarak Göster\bin\Debug\Rakamlari Yazi Olarak Göster.exe
+C:\Users\murat\Desktop\ \Yeni klasör\Rakamlari Yazi Olarak Göster\Rakamlari Yazi Olarak Göster\bin\Debug\Rakamlari Yazi Olarak Göster.pdb
+C:\Users\murat\Desktop\ \Yeni klasör\Rakamlari Yazi Olarak Göster\Rakamlari Yazi Olarak Göster\obj\x86\Debug\Rakamlari Yazi Olarak Göster.exe
+C:\Users\murat\Desktop\ \Yeni klasör\Rakamlari Yazi Olarak Göster\Rakamlari Yazi Olarak Göster\obj\x86\Debug\Rakamlari Yazi Olarak Göster.pdb

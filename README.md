@@ -1,0 +1,2 @@
+# CSharp_Console_35_Rakamlari_Yazi_Olarak_Goster
+ 
